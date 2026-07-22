@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
                   padding: "18px 16px 24px",
                 }}
               >
-                Site desenvolvido por Fabrício da Silva Franca, para fins educativos
+                Desenvolvido por Fabrício da Silva França, para fins didáticos
               </footer>
             </div>
             <BottomNav />
